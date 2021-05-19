@@ -1,0 +1,1 @@
+# scaffolding-spring-boot-and-angular-with-jhipster
